@@ -1,0 +1,14 @@
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\bin\Debug\net7.0\LiczbyPierwsze.exe
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\bin\Debug\net7.0\LiczbyPierwsze.deps.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\bin\Debug\net7.0\LiczbyPierwsze.runtimeconfig.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\bin\Debug\net7.0\LiczbyPierwsze.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\bin\Debug\net7.0\LiczbyPierwsze.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.AssemblyInfoInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.AssemblyInfo.cs
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\refint\LiczbyPierwsze.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\LiczbyPierwsze.genruntimeconfig.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\LiczbyPierwsze\obj\Debug\net7.0\ref\LiczbyPierwsze.dll
