@@ -1,0 +1,14 @@
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\bin\Debug\net7.0\DwieCyfrySilni.exe
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\bin\Debug\net7.0\DwieCyfrySilni.deps.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\bin\Debug\net7.0\DwieCyfrySilni.runtimeconfig.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\bin\Debug\net7.0\DwieCyfrySilni.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\bin\Debug\net7.0\DwieCyfrySilni.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.AssemblyInfoInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.AssemblyInfo.cs
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\refint\DwieCyfrySilni.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\DwieCyfrySilni.genruntimeconfig.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\DwieCyfrySilni\obj\Debug\net7.0\ref\DwieCyfrySilni.dll
