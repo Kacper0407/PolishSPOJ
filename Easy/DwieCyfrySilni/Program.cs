@@ -4,7 +4,6 @@
     {
         int n = Convert.ToInt32(Console.ReadLine());
         int[] silnie = new int [n];
-        string [,] result = new string [2,n];
         for(int i=0; i<n; i++)
         {
             int num = Convert.ToInt32(Console.ReadLine());
@@ -14,20 +13,15 @@
         {
             if(silnie[i]<10)
             {
-                result[i,0] = "0";
-                result[i,1] = silnie[i].ToString();
+                Console.Write("0 ");
+                Console.Write(silnie[i]);
             }
             else
             {
                 for(int j=0; j<2; j++)
                 {   
-                    result[i,j] = silnie[i].ToString().ElementAt(j).ToString();
+                    Console.Write(silnie[i].ToString().ElementAt(j)+" ");
                 }
-            }
-        }
-        for(int i=0; i<n; i++){
-            for(int j=0; j<2; j++){
-                Console.Write($"{result[i,j]} ");
             }
             Console.WriteLine();
         }
