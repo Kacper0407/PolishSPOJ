@@ -11,19 +11,7 @@
         }
         for(int i=0; i<n; i++)
         {
-            if(silnie[i]<10)
-            {
-                Console.Write("0 ");
-                Console.Write(silnie[i]);
-            }
-            else
-            {
-                for(int j=0; j<2; j++)
-                {   
-                    Console.Write(silnie[i].ToString().ElementAt(j)+" ");
-                }
-            }
-            Console.WriteLine();
+            Console.WriteLine($"{silnie[i]/10} {silnie[i]%10}");
         }
     }
     public static int Silnia(int num)
