@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj": {}
+    "C:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj": {
+    "C:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj",
+        "projectUniqueName": "C:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj",
         "projectName": "DwieCyfrySilni",
-        "projectPath": "c:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj",
+        "projectPath": "C:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\DwieCyfrySilni.csproj",
         "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\obj\\",
+        "outputPath": "C:\\Users\\Kacper\\Documents\\GitHub\\PolishSPOJ\\Easy\\DwieCyfrySilni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kacper\\AppData\\Roaming\\NuGet\\NuGet.Config",
