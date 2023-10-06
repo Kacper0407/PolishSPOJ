@@ -1,0 +1,14 @@
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\bin\Debug\net7.0\PA05_POT.exe
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\bin\Debug\net7.0\PA05_POT.deps.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\bin\Debug\net7.0\PA05_POT.runtimeconfig.json
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\bin\Debug\net7.0\PA05_POT.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\bin\Debug\net7.0\PA05_POT.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.AssemblyInfoInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.AssemblyInfo.cs
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\refint\PA05_POT.dll
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.pdb
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\PA05_POT.genruntimeconfig.cache
+C:\Users\Kacper\Documents\GitHub\PolishSPOJ\Easy\PA05_POT\obj\Debug\net7.0\ref\PA05_POT.dll
